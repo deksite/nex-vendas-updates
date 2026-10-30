@@ -2,8 +2,8 @@
   "schema": 1,
   "package": "py.com.nex.vendas",
   "channel": "internal-testing",
-  "version": "1.0.102",
-  "versionCode": 20250,
-  "publishedAt": "2026-10-29T21:55:18.294330+00:00",
+  "version": "1.0.103",
+  "versionCode": 20251,
+  "publishedAt": "2026-10-30T00:36:30.751144+00:00",
   "storeUrl": "https://play.google.com/store/apps/details?id=py.com.nex.vendas"
 }
